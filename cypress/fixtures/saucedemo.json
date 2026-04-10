@@ -1,0 +1,15 @@
+{
+  "usuarioValido": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "usuarioInvalido": {
+    "username": "standard_user",
+    "password": "senha_errada"
+  },
+  "checkout": {
+    "firstName": "João",
+    "lastName": "Silva",
+    "zipCode": "40000000"
+  }
+}

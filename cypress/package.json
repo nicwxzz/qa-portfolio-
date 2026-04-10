@@ -1,0 +1,12 @@
+{
+  "name": "cypress-saucedemo",
+  "version": "1.0.0",
+  "description": "Testes E2E com Cypress para o SauceDemo",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
