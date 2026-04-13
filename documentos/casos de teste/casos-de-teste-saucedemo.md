@@ -37,7 +37,6 @@
 - Usuário redirecionado para a página de produtos com sucesso
 
 **Status:** ✅ Passou
-
 **Executado em:** 13/04/2025
 
 ---
