@@ -6,7 +6,7 @@
 |-----------------|-------------------------|
 | **Projeto**     | QA Portfolio — SauceDemo|
 | **Versão**      | 1.0                     |
-| **Responsável** | Nicolas                 |
+| **Responsável** | Nicolas Oliveira        |
 | **Data**        | 13/04/2025              |
 
 ---
