@@ -37,6 +37,7 @@
 - Usuário redirecionado para a página de produtos com sucesso
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
 
 ---
@@ -64,6 +65,7 @@
 - Mensagem de erro exibida corretamente
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
 
 ---
@@ -89,6 +91,7 @@
 - Mensagem de erro exibida corretamente
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
 
 ---
@@ -119,6 +122,7 @@
 - Observação: um dos produtos possui o nome `Test.allTheThings() T-Shirt (Red)`, referência intencional da aplicação à cultura de QA
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
 
 ---
@@ -147,6 +151,7 @@
 - Produtos reordenados corretamente do menor para o maior preço
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
 
 ---
@@ -177,6 +182,7 @@
 - Badge exibido com o número 1 e botão alterado para Remove corretamente
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
 
 ---
@@ -204,6 +210,7 @@
 - Badge removido e botão voltou para Add to cart corretamente
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
 
 ---
@@ -238,6 +245,7 @@
 - Mensagem de confirmação exibida e carrinho esvaziado com sucesso
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
 
 ---
@@ -267,4 +275,5 @@
 - Mensagem de erro exibida corretamente
 
 **Status:** ✅ Passou
+
 **Executado em:** 13/04/2025
