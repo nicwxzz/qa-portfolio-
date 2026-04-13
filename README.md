@@ -8,7 +8,7 @@ Portfólio de Quality Assurance com foco em automação de testes E2E e testes d
 
 Profissional de QA com experiência em testes manuais e automação. Este repositório reúne projetos práticos que demonstram domínio em ferramentas de automação, organização de documentação e boas práticas de qualidade de software.
 
-- 🔗 LinkedIn: [linkedin.com/in/nicwxz](https://www.linkedin.com/in/nicwxz))
+- 🔗 LinkedIn: [linkedin.com/in/nicwxz](https://www.linkedin.com/in/nicwxz)
 - 📧 Email: nicolasnoliveira2009@outlook.com
 
 ---
