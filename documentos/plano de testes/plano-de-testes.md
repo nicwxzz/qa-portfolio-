@@ -4,9 +4,9 @@
 
 | Campo           | Descrição               |
 |-----------------|-------------------------|
-| **Projeto**     | QA Portfolio — SauceDemo |
+| **Projeto**     | QA Portfolio — SauceDemo|
 | **Versão**      | 1.0                     |
-| **Responsável** | nicwxzz                 |
+| **Responsável** | Nicolas                 |
 | **Data**        | 13/04/2025              |
 
 ---
