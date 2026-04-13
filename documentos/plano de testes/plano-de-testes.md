@@ -44,7 +44,7 @@ Validar as funcionalidades principais da aplicação SauceDemo, garantindo que o
 |------------|---------|------------------------|
 | Cypress    | 12+     | Testes E2E             |
 | Postman    | Atual   | Testes de API          |
-| GitHub     | —       | Versionamento          |
+| GitHub     | Atual   | Versionamento          |
 
 ---
 
