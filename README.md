@@ -4,7 +4,7 @@ Portfólio de Quality Assurance com foco em automação de testes E2E e testes d
 
 ---
 
-## Sobre mim
+## Sobre o projeto
 
 Este repositório reúne projetos práticos que demonstram domínio em ferramentas de automação, organização de documentação e boas práticas de qualidade de software.
 
